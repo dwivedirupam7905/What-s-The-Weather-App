@@ -22,5 +22,8 @@ JSON: JSON stands for Javascript Object Notation. It is a light-weight data inte
 
 ### SCREENSHOTS :-
 
-![ScrShot1](https://drive.google.com/file/d/1nXtT7chQ5yb5K3Gn8TTXjz2RS_xaOOxc/view?usp=share_link)
-
+![ScrShot1](https://user-images.githubusercontent.com/91591163/201943904-e48f8f22-5d45-436f-8036-fbd92af49089.jpg)
+![ScrShot2](https://user-images.githubusercontent.com/91591163/201943909-c1322d76-4cef-4419-8410-8810277a0bc7.jpg)
+![ScrShot3](https://user-images.githubusercontent.com/91591163/201943911-70061753-7b3d-4b54-b042-2f4e1ea433ed.jpg)
+![ScrShot4](https://user-images.githubusercontent.com/91591163/201943916-86ade654-481a-4312-8b0e-44d4b5c9d81d.jpg)
+![ScrShot5](https://user-images.githubusercontent.com/91591163/201943918-ca2db82b-845e-4b32-a2d6-ce1106d21686.jpg)
